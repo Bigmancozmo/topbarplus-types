@@ -2,7 +2,7 @@
   "name": "@rbxts/topbar-plus",
   "version": "3.4.0",
   "description": "",
-  "main": "out/init.lua",
+  "main": "src/init.lua",
   "scripts": {
     "build": "rbxtsc",
     "watch": "rbxtsc -w",
@@ -16,7 +16,7 @@
   "keywords": [],
   "author": "g1mmethemoney / wAD",
   "license": "MIT",
-  "types": "out/index.d.ts",
+  "types": "src/index.d.ts",
   "files": [
     "src",
     "!**/*.tsbuildinfo"
